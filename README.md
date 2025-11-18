@@ -24,3 +24,5 @@ This file analyzes the advantage of using a CNN detector compared to a Correlati
 7. Watermarking_Classes: Containing classes and functions
    
 8. MyWatermarkinClasses: Containing classes and functions
+
+9. Universal_Model_Resnet18_4class: This file contains the trained CNN model weights.
